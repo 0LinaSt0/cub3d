@@ -1,0 +1,13 @@
+cub3D
+print_separator
+
+*.a
+*.o
+*.d
+*.out
+*.exe
+*.pdf
+*.dSYM
+.*
+
+!.gitignore
